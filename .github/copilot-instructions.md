@@ -12,7 +12,7 @@ Este é site da Pentel com o objetivo de apresentar um site funcional e navegave
 
 - **HTML5** - Estrutura semântica e acessível
 - **CSS3** - Estilização moderna com variáveis CSS
-- **Bootstrap 6** - Framework CSS responsivo
+- **Bootstrap 5.3** - Framework CSS responsivo
 - **JavaScript** - Interatividade quando necessário
 
 ## Abordagem de Design
@@ -86,11 +86,11 @@ Todas as páginas devem se enquadrar em uma estrutura dividida em 3 blocos: Cabe
 3. **Performance**: CSS/JS otimizado, imagens comprimidas
 4. **Manutenibilidade**: Código modular, DRY (Don't Repeat Yourself)
 5. **Bootstrap First**: Aproveite utilities do Bootstrap antes de CSS customizado
-6. **Libs Bootstrap**: Use os links da CDN (https://cdn.jsdelivr.net/npm/bootstrap@6.0.0-alpha.)
+6. **CDN Link**: https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/css/bootstrap.min.css
 
 ## Recursos Úteis
 
-- [Bootstrap 6 Docs](https://getbootstrap.com/docs/6.0/guides/quickstart/)
+- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [GitHub Copilot Instructions](https://docs.github.com/en/copilot/concepts/prompting/response-customization)
 

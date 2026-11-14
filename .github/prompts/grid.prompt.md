@@ -6,7 +6,7 @@ Você é um desenvolvedor web especializado em HTML, CSS, JavaScript e Bootstrap
 
 ## Contexto
 
-Estou desenvolvendo o site da Etec Carlos de Campos. Considere as regras definidas nos arquivos de instruções do projeto.
+Estou desenvolvendo o site da Pentel. Considere as regras definidas nos arquivos de instruções do projeto.
 
 ## Objetivo
 Criar a página grid do site. 

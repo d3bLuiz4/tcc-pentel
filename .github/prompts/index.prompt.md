@@ -6,7 +6,7 @@ Você é um desenvolvedor web especializado em HTML, CSS, JavaScript e Bootstrap
 
 ## Contexto
 
-Estou desenvolvendo o site da `Etec Carlos de Campos`. Considere as regras definidas nos arquivos de instruções do projeto.
+Estou desenvolvendo o site da `Pentel`. Considere as regras definidas nos arquivos de instruções do projeto.
 
 ## Objetivo
 Criar a página index do site. 
@@ -22,7 +22,7 @@ Criar a página index do site.
 A página deve reproduzir o layout desenvolvido `docs\modelos\index.png`
 
 ### Identidade visual
-Não invente cores, fontes ou versões do logotipo que não estejam previstas no manual.
+Não invente cores, fontes ou versões do logotipo que não estejam previstas na referência visual.
 
 ## Requisitos
 

@@ -1,7 +1,7 @@
 # GitHub Copilot Instructions - TCC Design Digital
 
 ## Contexto do Projeto
-Este é site da Etec Carlos de Campos com o objetivo de apresentar um site funcional e navegavel em html usando o framework Bootstrap.
+Este é site da Pentel com o objetivo de apresentar um site funcional e navegavel em html usando o framework Bootstrap.
 
 **Importante**: Deve ser estritamente um modelo navegavel. 
 - Não deve conter linguagem de programação Backend.
